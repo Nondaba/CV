@@ -1,0 +1,32 @@
+body{
+    background-color:#fcf8ec;
+}
+hr{
+    border-color:grey;
+    border-style: none;
+    border-width:5px;
+    border-top-style: dotted;
+    width:5%;
+}
+h1{
+    color:#a4ebf3
+}
+h2{
+    color:#a4ebf3
+}
+p{
+    color:#99bbad;
+}
+td{
+    color:#99bbad;
+}
+th{
+    color:#99bbad;
+}
+a{
+    color:#99bbad;
+}
+img{
+    height:400px;
+}
+
